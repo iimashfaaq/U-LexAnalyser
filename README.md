@@ -55,7 +55,7 @@ A table will be shown in your terminal with the types of tokens found and the am
 * Identifier
 * Comment (M) - Multiline
 * Comment (S) - Single Line
-* Error
+* Error (Anything that is not recognized by the code)
 
 For the final count, number and comment tokens are combined without checking their type.
 
